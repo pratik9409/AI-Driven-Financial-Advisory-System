@@ -4,6 +4,10 @@
 ### Description
 This project integrates advanced AI capabilities to provide financial analytics and investment insights using IBM Watson's foundation models and LangChain's planning and execution tools. The system processes user input, fetches live financial data, and generates comprehensive investment insights.
 
+![ai_advisor](https://github.com/user-attachments/assets/d0e1bcea-a7be-43e0-80e8-740fe1fca219)
+
+
+
 ### Features
 AI-Powered Analysis: Leverages IBM Watson’s LLama2-70B-chat for generating insights.
 Dynamic News Extraction: Fetches recent financial news via Yahoo Finance and Google News.
@@ -13,13 +17,13 @@ Extensible and Modular: Built with tools and templates for easy customization.
 Installation and Setup
 Prerequisites:
 
-Python 3.8+
+Python 3.10+
 Pip (Python package manager)
 API keys for IBM Watson and Serper (Google search API)
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/financial-advisory-ai.git
+git clone [https://github.com/yourusername/financial-advisory-ai.git](https://github.com/pratik9409/AI-Driven-Financial-Advisory-System.git)
 cd financial-advisory-ai
 ```
 
